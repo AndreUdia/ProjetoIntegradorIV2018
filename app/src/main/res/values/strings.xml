@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Projeto Integrador IV 2018</string>
+    <string name="submeter">submeter</string>
+    <string name="login">login</string>
 </resources>
